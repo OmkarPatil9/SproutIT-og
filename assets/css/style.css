@@ -208,15 +208,6 @@ h6 {
   margin-left: 15px !important;
 }
 
-@media only screen and (max-width: 350px) {
-  #intro {
-    height: 160vh !important;
-  }
-  .sproutlogo {
-    width: 310px !important;
-  }
-}
-
 @media only screen and (max-width: 400px) {
   .scit-logo {
     width: 130px;
@@ -229,6 +220,14 @@ h6 {
 
   #intro {
     height: 135vh !important;
+  }
+}
+@media only screen and (max-width: 350px) {
+  #intro {
+    height: 160vh !important;
+  }
+  .sproutlogo {
+    width: 310px !important;
   }
 }
 
