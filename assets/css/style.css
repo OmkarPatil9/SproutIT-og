@@ -219,7 +219,16 @@ h6 {
   }
 
   #intro {
-    height: 125vh !important;
+    height: 135vh !important;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  #intro {
+    height: 160vh !important;
+  }
+  .sproutlogo {
+    width: 310px !important;
   }
 }
 
