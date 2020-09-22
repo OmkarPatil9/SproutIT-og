@@ -213,6 +213,14 @@ h6 {
     width: 130px;
     height: auto;
   }
+
+  .sproutlogo {
+    width: 350px !important;
+  }
+
+  #intro {
+    height: 125vh !important;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -1058,7 +1066,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #gallery .owl-dot {
   display: inline-block;
-  margin: 0 5px;
+  margin: 0 3px;
   width: 12px;
   height: 12px;
   border-radius: 50%;
